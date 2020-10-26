@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EvaluationExercise</string>
+    <string name="some_error"> An error occurred </string>
+    <string name="branchName_core"> Branch Name: </string>
+    <string name="branchArea_core">  Branch Area: </string>
+    <string name="branchCity"> Branch City: </string>
+    <string name="list_header"> List of Mellon Branches</string>
+    <string name="question1_text">Πως θα χαρακτηρίζατε το επίπεδο της εξυπηρέτησης που λάβατε σήμερα;</string>
+    <string name="next_question_button"> ΕΠΟΜΕΝΟ </string>
+    <string name="badService"> Χαμηλό </string>
+    <string name="lowService"> Μέτριο </string>
+    <string name="highService"> Υψηλό </string>
+    <string name="perfectService"> Άριστο </string>
+    <string name="question2_negative_case"> Τι ήταν αυτό που σας δυσαρέστησε ιδιαιτέρως </string>
+    <string name= "question2_positive_case"> Τι ήταν αυτό που σας ικανοποίησε ιδιαιτέρως </string>
+    <string name="option1"> 1. Προθυμία για εξυπηρέτηση κι ευγένεια προσωπικού</string>
+    <string name= "option2">2. Προϊόντα κι υπηρεσίες για τις δικές σας ανάγκες </string>
+    <string name = "option3"> 3. ταχύτητα εξυπηρέτησης </string>
+    <string name ="option4"> 4. Εικόνα καταστήματος </string>
+    <string name= "sendAnswers"> ΤΕΛΟΣ </string>
+    <string name="thanks"> Σας ευχαριστούμε πολύ για τον χρόνο σας </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
